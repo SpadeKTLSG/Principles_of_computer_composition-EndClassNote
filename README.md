@@ -14,7 +14,8 @@ That's done in Chinese, no ENG version
 
 本牛马大学生祝大伙期末顺利
 
-另外, 例题可能会考虑补充(TODO)
+例题和DLC已经补充, 后续小整理就不更新了, 如果有重大错误欢迎反馈 : )
+
 ---
 
 Principles of computer composition personal end-of-term review book
